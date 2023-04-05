@@ -1,0 +1,8 @@
+
+
+.nav-item{font-weight: 900 !important;
+font-size: 1.3rem !important;}
+.nav-item a:hover{color: blue !important;}
+.footer-text:hover{
+color: lightgray !important;
+}
