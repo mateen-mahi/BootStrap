@@ -17,14 +17,14 @@ Welcome to the Bootstrap Starter Page repository! This repository provides a sim
 
 ## Getting Started
 
-1. **Explore the Starter Page**: Open the `index.html` file in your web browser. You'll find a simple web page with Bootstrap components that you can customize and build upon.
+1. **Explore the Starter Page**: Open the `bootStrap.html` file in your web browser. You'll find a simple web page with Bootstrap components that you can customize and build upon.
 
-2. **Customize and Use**: Edit the `index.html` file to add your content, modify the Bootstrap components, or integrate this starter page into your project.
+2. **Customize and Use**: Edit the `bootStrap.html` file to add your content, modify the Bootstrap components, or integrate this starter page into your project.
 
 ## What's Included
 
-- `index.html`: The main HTML file with Bootstrap components to get you started.
-- `assets/`: A folder containing any additional assets, such as images or custom CSS, that you may want to include in your project.
+- `bootStrap.html`: The main HTML file with Bootstrap components to get you started.
+- `imaegsb/`: A folder containing any additional assets, such as images or custom CSS, that you may want to include in your project.
 
 ## How to Contribute
 
